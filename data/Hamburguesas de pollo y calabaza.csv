@@ -1,0 +1,15 @@
+"Porciones",4,,,
+"Gramaje",811,,,
+"Clasificacion",0,2,1,
+"Cantidad","Unidad","Gramos","Ingrediente","Instrucciones"
+1,"pza",200,"calabaza italiana","Rallar la calabaza finamente y colocarla en un trapo limpio, exprimir y retirar todo el líquido que contenga."
+400,"gramos",400,"molida de pollo","Mezclar la carne molida de pollo, la calabaza, la cebolla, el ajo, el perejil, la ralladura de limón, el huevo,  harina de avena, sal y pimienta."
+0.25,"pza",65,"cebolla","Forma 4 bolas y aplana ligeramente para hacer las hamburguesas"
+2,"cda",10,"ajo","Fríe a fuego medio cada hamburguesa. "
+2,"cda",20,"perejil",
+1,"pza",2,"cascara de limon",
+1,"pza",60,"huevo",
+0.25,"tza",35,"harina de avena",
+0.5,"cdita",2.5,"sal",
+0.25,"cdita",1.5,"pimienta",
+3,"cdita",15,"aceite de oliva",

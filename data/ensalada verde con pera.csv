@@ -1,0 +1,17 @@
+"Porciones",5,,,
+"Gramaje",836.5,,,
+"Clasificacion",0,4,2,
+"Cantidad","Unidad","Gramos","Ingrediente","Instrucciones"
+1,"tza",50,"lechuga romana*","Trocea las hojas verdes"
+1,"tza",100,"espinaca*","Corta la pera en cubitos"
+1,"tza",100,"acelga*","Mezcla y añade el queso en cubos"
+1,"pza",190,"pera*","Mezcla la pulpa de tamarindo, el vinagre y la mejorana"
+160,"gr",160,"quesillo*","Salpimenta y bate hasta integrar"
+0.5,"tza",90,"tamarindo","Sirve la ensalada, agrega las uvas en mitades y baña con la vinagreta"
+2,"cda",14,"vinagre blanco","Espolvorea el ajonjolí y las semillas de girasol."
+1,"cdita",5,"mejorana seca",
+0.5,"cdita",2.5,"sal ",
+0.25,"cdita",1,"pimienta",
+0.5,"tza",80,"uvas blancas",
+2,"cda",16,"ajonjoli",
+4,"cda",28,"semillas de girasol",
